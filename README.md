@@ -1,11 +1,6 @@
 <!-- PROFILE IMAGE -->
 <p align="center">
-  <img 
-    src="https://avatars.githubusercontent.com/u/YOUR_GITHUB_ID?v=4" 
-    width="160" 
-    style="border-radius:50%;" 
-    alt="Naval Joshi"
-  />
+<img src="https://iili.io/JU1Yhg4.gif" alt="Animated Developer Banner"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Naval</h1>
